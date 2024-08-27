@@ -24,10 +24,6 @@ file = "config/yosbr/config/wover/client.json"
 hash = "39e659c2c5730ed8293e03086d865b1ad57ee991a117d6502311e9bc82b56fdd"
 
 [[files]]
-file = "gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "02631918e9b0e4d0e8f86cf638567f487e06d1377eb033893321203cdaa4a269"
 metafile = true
@@ -856,7 +852,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
-
-[[files]]
-file = "version.txt"
-hash = "f412ddab603070e720c7af8f135b8524006ecf5222916737c861763c8da0bb8c"
