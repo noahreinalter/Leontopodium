@@ -3,3 +3,6 @@ gitattributes.txt
 
 README.md
 LICENSE
+docker-compose.yaml
+
+data/

@@ -1,0 +1,16 @@
+services:
+  mc:
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      DIFFICULTY: "normal"
+      TYPE: "FABRIC"
+      VERSION: "1.21"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/noahreinalter/Leontopodium/main/pack.toml"
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - ./data:/data
