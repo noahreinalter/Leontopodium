@@ -1,13 +1,13 @@
 name = "Thorny Bush Protection"
-filename = "thornybushprotection-1.21.0-1.4.jar"
+filename = "thornybushprotection-1.21.1-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYGSXIE7/versions/ueOgEjr5/thornybushprotection-1.21.0-1.4.jar"
+url = "https://cdn.modrinth.com/data/hYGSXIE7/versions/7pIaJBL2/thornybushprotection-1.21.1-1.4.jar"
 hash-format = "sha1"
-hash = "ea913353719450d66ae114af2b56430670fa80c6"
+hash = "1f660662243dbadb4cf582a7f696522dede20868"
 
 [update]
 [update.modrinth]
 mod-id = "hYGSXIE7"
-version = "ueOgEjr5"
+version = "7pIaJBL2"

@@ -1,13 +1,13 @@
 name = "Furnace Recycle"
-filename = "furnacerecycle-1.21.0-2.5.jar"
+filename = "furnacerecycle-1.21.1-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/aVWjYU19/furnacerecycle-1.21.0-2.5.jar"
+url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/uV4CbeG9/furnacerecycle-1.21.1-2.5.jar"
 hash-format = "sha1"
-hash = "1f68eaeb577a288336118ed14892252b045cd5ee"
+hash = "799b0aca9e3488dd159db94c12eb9f9ec88dc525"
 
 [update]
 [update.modrinth]
 mod-id = "HyKmtI3L"
-version = "aVWjYU19"
+version = "uV4CbeG9"

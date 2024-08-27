@@ -1,13 +1,13 @@
 name = "Advancement Screenshot"
-filename = "advancementscreenshot-1.21.0-4.9.jar"
+filename = "advancementscreenshot-1.21.1-4.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/rgwoLjBa/advancementscreenshot-1.21.0-4.9.jar"
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/vHWdv3x8/advancementscreenshot-1.21.1-4.9.jar"
 hash-format = "sha1"
-hash = "c3820bc0fdcd828a997317b7d4ca89627443957d"
+hash = "ecfbe090aa4efe3c1976895b4b9ed360a117b627"
 
 [update]
 [update.modrinth]
 mod-id = "lU8KbfG2"
-version = "rgwoLjBa"
+version = "vHWdv3x8"

@@ -1,13 +1,13 @@
 name = "Clear-fix"
-filename = "clear-fix-1.2.jar"
+filename = "clear-fix-1.2.1+mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n13xynaE/versions/eIHNKuqQ/clear-fix-1.2.jar"
+url = "https://cdn.modrinth.com/data/n13xynaE/versions/Qmis6a6i/clear-fix-1.2.1%2Bmc1.21.jar"
 hash-format = "sha1"
-hash = "8380ed937988dac4f4d78411edb3d89159da9898"
+hash = "e224a3bda26dd1071a8a2f9342ffafa3b1b531ac"
 
 [update]
 [update.modrinth]
 mod-id = "n13xynaE"
-version = "eIHNKuqQ"
+version = "Qmis6a6i"

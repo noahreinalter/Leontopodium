@@ -1,13 +1,13 @@
 name = "Skeleton Horse Spawn"
-filename = "skeletonhorsespawn-1.21.0-4.0.jar"
+filename = "skeletonhorsespawn-1.21.1-4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZcqNoW8j/versions/dC7T3Xin/skeletonhorsespawn-1.21.0-4.0.jar"
+url = "https://cdn.modrinth.com/data/ZcqNoW8j/versions/dMlPqfgY/skeletonhorsespawn-1.21.1-4.0.jar"
 hash-format = "sha1"
-hash = "03c2de1d2b0cc9948abf9a3a5dfd4c53bd1e471b"
+hash = "2ad36d4fd36e79180cf33120ae9bc104fa61b68d"
 
 [update]
 [update.modrinth]
 mod-id = "ZcqNoW8j"
-version = "dC7T3Xin"
+version = "dMlPqfgY"
