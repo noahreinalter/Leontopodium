@@ -1,0 +1,13 @@
+name = "April Fools"
+filename = "aprilfools-1.21.0-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pgepow0I/versions/zVRArzri/aprilfools-1.21.0-1.5.jar"
+hash-format = "sha1"
+hash = "a17c11cc4cd1dda35b72c5f23206f69778d96ebf"
+
+[update]
+[update.modrinth]
+mod-id = "Pgepow0I"
+version = "zVRArzri"

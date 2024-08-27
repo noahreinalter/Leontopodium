@@ -1,0 +1,13 @@
+name = "Just Player Heads"
+filename = "justplayerheads-1.21.0-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YdVBZMNR/versions/flYDI8v1/justplayerheads-1.21.0-4.1.jar"
+hash-format = "sha1"
+hash = "00bd39bbc95921655f81676ade3ee465986221ec"
+
+[update]
+[update.modrinth]
+mod-id = "YdVBZMNR"
+version = "flYDI8v1"

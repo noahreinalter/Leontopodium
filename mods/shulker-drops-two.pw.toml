@@ -1,0 +1,13 @@
+name = "Shulker Drops Two"
+filename = "shulkerdropstwo-1.21.0-3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UjXIyw47/versions/BuuYTfk5/shulkerdropstwo-1.21.0-3.4.jar"
+hash-format = "sha1"
+hash = "65fbb2d9a094b1bc53ebc100ea748fa7d164e201"
+
+[update]
+[update.modrinth]
+mod-id = "UjXIyw47"
+version = "BuuYTfk5"

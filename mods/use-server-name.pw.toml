@@ -1,0 +1,13 @@
+name = "Use Server Name"
+filename = "UseServerName-2.2.0+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/azykZelP/versions/kQ5w71Ea/UseServerName-2.2.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "57b86390483085d990d0a2ded194fd0115673b49"
+
+[update]
+[update.modrinth]
+mod-id = "azykZelP"
+version = "kQ5w71Ea"

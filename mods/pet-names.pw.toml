@@ -1,0 +1,13 @@
+name = "Pet Names"
+filename = "petnames-1.21.0-3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tOoh2eQm/versions/3MovsUNY/petnames-1.21.0-3.4.jar"
+hash-format = "sha1"
+hash = "ba43744e2cfbcfa1ab14cc4a21d34248e14913cb"
+
+[update]
+[update.modrinth]
+mod-id = "tOoh2eQm"
+version = "3MovsUNY"

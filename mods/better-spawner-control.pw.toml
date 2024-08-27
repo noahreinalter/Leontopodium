@@ -1,0 +1,13 @@
+name = "Better Spawner Control"
+filename = "betterspawnercontrol-1.21.0-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/dPno1oRP/betterspawnercontrol-1.21.0-4.6.jar"
+hash-format = "sha1"
+hash = "e8b4d7404601daa3a069dc839fd0bca74d0eaf67"
+
+[update]
+[update.modrinth]
+mod-id = "hmAeYRJT"
+version = "dPno1oRP"

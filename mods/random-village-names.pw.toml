@@ -1,0 +1,13 @@
+name = "Random Village Names"
+filename = "randomvillagenames-1.21.0-3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N0ytbukx/versions/DudjdFs5/randomvillagenames-1.21.0-3.7.jar"
+hash-format = "sha1"
+hash = "3bc554d5b81853770d9812730b1200b675aedef6"
+
+[update]
+[update.modrinth]
+mod-id = "N0ytbukx"
+version = "DudjdFs5"

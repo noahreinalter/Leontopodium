@@ -1,0 +1,13 @@
+name = "Wool Tweaks"
+filename = "wooltweaks-1.21.0-3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqQsKUma/versions/3BK3uqNh/wooltweaks-1.21.0-3.7.jar"
+hash-format = "sha1"
+hash = "994196a9dc1cf71ba92f7d604711399532fbf821"
+
+[update]
+[update.modrinth]
+mod-id = "lqQsKUma"
+version = "3BK3uqNh"
