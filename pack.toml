@@ -1,12 +1,12 @@
 name = "Leontopodium"
 author = "noahreinalter"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8607699926281b36a14103e7f79ca7ea0a12856d06797ba3eac47e215ee5cfd7"
+hash = "2e245cc33a1db48bb9a3781a126c3f48ccd5f7c103d2a3e1a5b11b7f32066250"
 
 [versions]
 fabric = "0.16.0"
