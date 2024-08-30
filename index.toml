@@ -20,6 +20,10 @@ file = "config/yosbr/config/bclib/client.json"
 hash = "ac8976d55b0e5dd53a20c73ca90f859590a73f2260516b71d491c9307fbdcbde"
 
 [[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "712fe7cbeca5bdd1c9ec1600d2a56a0570e2800114c8a3c81e51c3a5e13ca1cc"
+
+[[files]]
 file = "config/yosbr/config/wover/client.json"
 hash = "39e659c2c5730ed8293e03086d865b1ad57ee991a117d6502311e9bc82b56fdd"
 
@@ -101,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "49bd61998eab0606ee50c0528e788e8c93bc9f3b72b49f59b9f1e286e0d2ed84"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
 
 [[files]]
@@ -484,8 +493,18 @@ hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b121bf3d39b00eeb29f2ccf79ff2d7fc7d9a5642487601faa2158886f6273b4b"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
 metafile = true
 
 [[files]]
@@ -511,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
@@ -650,7 +674,22 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c35a2d6c48b65f253d5a5abee0aad1926c7a0701aa925c9793212acd3730b748"
+hash = "f8a4f0396ba5f97891672183e53f33aa2c3a5c09733e7f32ebef4b6b1e5e6ca0"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "3d8e926eb900525a2c6295146dbcef6c2826625b75434312495f2ebf21224c81"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "09af061e974f453d347673fb7552dc5f8496a88ae44231b0fd1d930087ebf013"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "ae692a3b036e6b16e416a86ae13d92563b70f2b862b61bd5a9db68caa1b4a8b2"
 metafile = true
 
 [[files]]
@@ -691,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "c69e3afc72655be89d6c6621911a0af4cc96ab66bba9d227537a9d73f1ee3a47"
 metafile = true
 
 [[files]]
