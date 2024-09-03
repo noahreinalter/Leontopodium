@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepacks/chat-reporting-helper.pw.toml"
-hash = "e56877d6529e0e035ff2c88d796e54931ec4e848733a8c07aa5ea268539c5bfa"
+hash = "e4f6c2659e4786723e1e64a6d308a222d4c8d80ab07e5e85d99e0cefd2e15593"
 metafile = true
 
 [[files]]
@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/translations-for-sodium.pw.toml"
-hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
+hash = "5f04b8ccbae21643be9fd8e523631c93f91ddbabfb5cf9132c93541f4d5b8228"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2708aee80070eaae6f647a9b321a24d9cb7d3e188b02a145b4bc818180d04e95"
+hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "49bd61998eab0606ee50c0528e788e8c93bc9f3b72b49f59b9f1e286e0d2ed84"
+hash = "bd3718cc882f4cff9723fcb35e29da709990ca8c95263ff4a25b0c6647c73cc2"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ac2a7023a5699cef66124f7cc1ef0da820ea09063cfd9ed23921ca918daf5882"
+hash = "2f18616d13cdfc744cb84df3af2dd46d4992c1f35bef509ae26ef376df47993d"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "38ab537cecdb0313719aa04cca30c15bd33380c29230b46ac15052da10329379"
+hash = "9292b48dd1c521fcffc5d3f9ddec53270d451073ec2cbb74afc107be7169ea2f"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "0017b848b30c5ef0026452710048323803dd01be5132096e767c4c90906b8117"
+hash = "d03010903193479b109a9986040cd25017a0f5469f27f3c7389d74d8c5dfe046"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ee8ba4499683893a26eb7b786d2ddc1fa20eaf0c7be86ed16561096cdca593b8"
+hash = "af483b2232ed579dc51a3f0162faeb60715bee7171b3cff2bde43b4a30b0c027"
 metafile = true
 
 [[files]]
@@ -499,12 +499,17 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b121bf3d39b00eeb29f2ccf79ff2d7fc7d9a5642487601faa2158886f6273b4b"
+hash = "5d2bdf74b30a61ac7d0fa3388db64b18ebcb01f4cd5ed897cc96a150a18ad107"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
@@ -599,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "a6845f70b6330aca9960b7d29e9d4dee12c270de2393598ffd2b1ea1310d1787"
+hash = "695ddf149004a3755dbd34c655e96407d52b6e74c8fce70bdd19d2207fd63a71"
 metafile = true
 
 [[files]]
@@ -634,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "75d54cfa3d322caf6748be4a7bd40f24c26f0818f2b7f4243af61ae42cde2694"
+hash = "f7e3ccd9aeaa1f3616643a34d88a4f07b1d533805fe68bc195e9c30222aef4b3"
 metafile = true
 
 [[files]]
@@ -869,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "95042d1760df8b07bde017e4c5e61f0075ac606babc4155c763890fa0df4e534"
+hash = "295d623efa0bddd6df48fb521a7e6b5900c9b8b3fd9e0e0bc9e780fad951ea5b"
 metafile = true
 
 [[files]]
@@ -884,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5607c21ed488c02fec5ad17424d184cb7c1eb38536ed494184edc99ebd0b6a0e"
+hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
 metafile = true
 
 [[files]]
