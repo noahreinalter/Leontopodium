@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "2e9eb422a8ceef84bee0faa13430e4b5e93118b36395c9017114f4948dba5d64"
+hash = "054623ed3207c686db19e7df411457e6d3cf45bc78b46b48c5deff7a8cd47746"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "9bb519655ea80e8698712f238411b6e0fc3718032572224eccc175d0f0aeac2f"
+hash = "c105598ff294337118006341cecbb73ff1663278c90eed53e89ed87573cf6965"
 metafile = true
 
 [[files]]
